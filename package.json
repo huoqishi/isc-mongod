@@ -1,0 +1,17 @@
+{
+  "name": "isc-mongod",
+  "version": "0.3.1",
+  "description": "火骑士空空",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "huoqishi",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.16"
+  }
+}
