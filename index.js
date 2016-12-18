@@ -65,7 +65,7 @@ exports.delete = function(collectionName,obj,callback) {
 // exports.find('users',{a:'aaa'},function(err,data){
 //     console.log(data)
 // })
-exports.delete('users',{a:'aaa'},function(err,data){
-    console.log(data);
+// exports.delete('users',{a:'aaa'},function(err,data){
+//     console.log(data);
     
-})
+// })
